@@ -1,4 +1,12 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+
+Amanda Silva Lima 
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **2d46/2d46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
